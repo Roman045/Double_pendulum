@@ -1,0 +1,17 @@
+D:\Обучение\Математическое моделирование\double_pendulum\obj\Debug\double_pendulum.csproj.AssemblyReference.cache
+D:\Обучение\Математическое моделирование\double_pendulum\obj\Debug\double_pendulum.Form1.resources
+D:\Обучение\Математическое моделирование\double_pendulum\obj\Debug\double_pendulum.Properties.Resources.resources
+D:\Обучение\Математическое моделирование\double_pendulum\obj\Debug\double_pendulum.csproj.GenerateResource.cache
+D:\Обучение\Математическое моделирование\double_pendulum\obj\Debug\double_pendulum.csproj.CoreCompileInputs.cache
+D:\Обучение\Математическое моделирование\double_pendulum\bin\Debug\double_pendulum.exe.config
+D:\Обучение\Математическое моделирование\double_pendulum\bin\Debug\double_pendulum.exe
+D:\Обучение\Математическое моделирование\double_pendulum\bin\Debug\double_pendulum.pdb
+D:\Обучение\Математическое моделирование\double_pendulum\bin\Debug\Tao.FreeGlut.dll
+D:\Обучение\Математическое моделирование\double_pendulum\bin\Debug\Tao.OpenGl.dll
+D:\Обучение\Математическое моделирование\double_pendulum\bin\Debug\Tao.Platform.Windows.dll
+D:\Обучение\Математическое моделирование\double_pendulum\bin\Debug\Tao.FreeGlut.xml
+D:\Обучение\Математическое моделирование\double_pendulum\bin\Debug\Tao.OpenGl.xml
+D:\Обучение\Математическое моделирование\double_pendulum\bin\Debug\Tao.Platform.Windows.xml
+D:\Обучение\Математическое моделирование\double_pendulum\obj\Debug\double_pendulum.csproj.CopyComplete
+D:\Обучение\Математическое моделирование\double_pendulum\obj\Debug\double_pendulum.exe
+D:\Обучение\Математическое моделирование\double_pendulum\obj\Debug\double_pendulum.pdb
